@@ -1,0 +1,2 @@
+script.sh y partida_guardada.txt son parte del mismo programa, esto se sólo el menú para desplegar las opciones de iniciar una partida nueva o cargar una existente, también el seleccionar personajes que por ahora solo es un echo "soy [personaje]" para saber si se guardan bien los datos de partida.
+movimiento.sh y limite_mapa_avanzado.sh son las pruebas para el movimiento del personaje en un mapa con bordes para que no se salga.
